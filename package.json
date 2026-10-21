@@ -1,0 +1,47 @@
+{
+  "name": "mail.td-api",
+  "version": "1.0.0",
+  "description": "Node.js client and REST API for mail.td disposable mailboxes \u2014 built on the mail.td website's own backend. Create mailboxes, read mail, and extract OTP codes with no API key.",
+  "keywords": [
+    "mail.td",
+    "mailtd",
+    "temp-mail",
+    "temporary-email",
+    "disposable-email",
+    "otp",
+    "scraper",
+    "api",
+    "express",
+    "nodejs"
+  ],
+  "author": "SiAM (https://github.com/siam38)",
+  "license": "MIT",
+  "homepage": "https://github.com/siam38/mail.td-api#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siam38/mail.td-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siam38/mail.td-api/issues"
+  },
+  "type": "module",
+  "main": "src/mailtd.js",
+  "exports": {
+    ".": "./src/mailtd.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "demo": "node examples/demo.js",
+    "test": "node examples/demo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "hash-wasm": "^4.12.0",
+    "https-proxy-agent": "^9.1.0",
+    "ws": "^8.18.0"
+  }
+}
