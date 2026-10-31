@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: mail.td official website
+    url: https://mail.td
+    about: Issues with the mail.td service itself (delivery, limits, accounts) belong to mail.td — this repo only provides a client for it.
+  - name: Security vulnerabilities
+    url: https://github.com/siam38/mail.td-api/security/advisories/new
+    about: Please report security issues privately, not as a public issue.
