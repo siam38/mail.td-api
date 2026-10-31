@@ -9,6 +9,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
+[![Release](https://img.shields.io/github/v/release/siam38/mail.td-api)](https://github.com/siam38/mail.td-api/releases)
+[![Stars](https://img.shields.io/github/stars/siam38/mail.td-api)](https://github.com/siam38/mail.td-api/stargazers)
+[![Forks](https://img.shields.io/github/forks/siam38/mail.td-api)](https://github.com/siam38/mail.td-api/forks)
+[![Issues](https://img.shields.io/github/issues/siam38/mail.td-api)](https://github.com/siam38/mail.td-api/issues)
+[![Last commit](https://img.shields.io/github/last-commit/siam38/mail.td-api)](https://github.com/siam38/mail.td-api/commits/main)
+
 Create disposable mailboxes, read incoming mail, and extract OTP codes —
 with **no API key, no paid account, and no signup**.
 
